@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todolistapp-ee048": {
+      "hosting": {
+        "todolistapp": [
+          "todolistapp-ee048"
+        ]
+      }
+    }
+  }
+}
